@@ -1,6 +1,6 @@
 # Trial-Independent EEG Auditory Attention Detection
 
-This repository contains the trial-independent implementation of **BeaST** and the comparison methods, including DARNet, EEGNet, Conformer, G3D, STGCN, STANet, DGCNN, CNN and TSception.
+This repository contains the trial-independent implementation of **BeaST** and the comparison methods.
 
 The within-trial protocol is intentionally excluded.
 
