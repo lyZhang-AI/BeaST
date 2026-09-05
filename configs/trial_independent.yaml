@@ -1,0 +1,9 @@
+model: BeaST
+dataset: KUL
+time_len: 2
+seed: 1234
+batch_size: 32
+max_epoch: 100
+patience: 10
+overlap: 0.5
+protocol: trial-independent

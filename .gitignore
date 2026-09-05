@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Private data and generated artifacts
+data/raw/
+data/processed/
+results/
+checkpoints/
+*.mat
+*.csv
+*.npy
+*.pt
+*.pth
+*.log
+*.out
+
+# Local IDE/system files
+.vscode/
+.idea/
+.DS_Store
+
+# Temporary archive created while restructuring the initial flat layout
+_legacy_flat_layout/
